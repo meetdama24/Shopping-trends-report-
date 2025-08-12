@@ -28,5 +28,5 @@ Shopping Trends Dashboard – Power BI Analytics , An interactive Power BI dashb
          .Dynamic Charts & KPIs – Real-time metrics for quick decision-making.
          .Clean & Intuitive UI – Easy navigation and professional design for business use.
   6. Screenshots / Demos
-     https://github.com/meetdama24/Shopping-trends-report-/blob/main/dashboard%20view
+     
          
